@@ -1,5 +1,6 @@
 body {
   padding-top: 5rem;
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
 }
 .starter-template {
   padding: 3rem 1.5rem;
